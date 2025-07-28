@@ -14,7 +14,7 @@
 - 💬 Ask me about **AI Integrations, Dashboards, ETL, NLP, or Automation Projects**
 - 🧠 Built intelligent systems for CCTV anomaly detection, document extraction, Streamlit dashboards
 - 📫 Email: dhruvkajla0001@gmail.com
-- 💼 Portfolio: [dhruv-kajla-ai-engineer](https://vabisheks.my.canva.site/dhruv-kajla-ai-engineer)
+
 
 ---
 
