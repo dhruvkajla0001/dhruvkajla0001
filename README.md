@@ -7,8 +7,8 @@
 Building scalable backend systems, production-grade data pipelines, and AI-powered applications.
 
 <p>
-  <a href="[https://www.linkedin.com/in/dhruvkajla](https://www.linkedin.com/in/dhruv-kajla001/)">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://linkedin.com/in/dhruv-kajla001/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:dhruvkajla@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -201,9 +201,9 @@ Docker • Kubernetes • GCP • Git • GitHub • Linux
 
 <p>
 
-<a href="https://www.linkedin.com/in/dhruvkajla001">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://linkedin.com/in/dhruv-kajla001/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
 <a href="mailto:dhruvkajla@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
