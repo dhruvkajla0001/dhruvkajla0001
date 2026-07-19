@@ -1,100 +1,226 @@
-<h1 align="center">Hi 👋, I'm Dhruv Kajla</h1>
-<h3 align="center">🚀 AI Engineer | 🧠 Data Engineering | 💻 Full-Stack Developer | 📊 ML/DL Enthusiast</h3>
+<div align="center">
+
+# Hi 👋, I'm Dhruv Kajla
+
+### Backend Engineer • Data Engineer • AI Engineer
+
+Building scalable backend systems, production-grade data pipelines, and AI-powered applications.
+
+<p>
+  <a href="https://www.linkedin.com/in/dhruvkajla">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:dhruvkajla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/dhruvkajla0001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=dhruvkajla0001&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+I'm a Computer Science graduate specializing in Artificial Intelligence with hands-on experience building production-grade backend systems, scalable data pipelines, and AI-powered applications.
+
+My interests lie in designing reliable software systems, automating data workflows, and building applications that solve real-world problems through data and AI.
+
+- 💼 Data Science & Analytics Intern
+- 🏗 Backend & Data Engineering Enthusiast
+- 🐍 Python & SQL Developer
+- 📈 Passionate about System Design & Distributed Systems
+- 🚀 Building production-grade software
+
+---
+
+# 🚀 Featured Project
+
+## CommerceFlow *(Currently Building)*
+
+A production-inspired Data Engineering Platform built from scratch.
+
+### Current Progress
+
+- ✅ ETL Framework
+- ✅ Star Schema Data Warehouse
+- ✅ PostgreSQL Warehouse
+- ✅ Data Validation Framework
+- ✅ Batch Processing
+- 🔄 Apache Airflow Orchestration
+- ⏳ FastAPI APIs
+- ⏳ Monitoring & Logging
+- ⏳ Analytics Dashboard
+- ⏳ Documentation
+
+### Technology
+
+`Python`
+`SQL`
+`PostgreSQL`
+`Apache Airflow`
+`FastAPI`
+`Docker`
+`Pandas`
+
+---
+
+# 💼 Professional Experience
+
+## Data Science & Analytics Intern
+
+Working on production-grade data engineering solutions including
+
+- Building scalable ETL pipelines
+- Workflow orchestration with Apache Airflow
+- Backend API development using FastAPI
+- Data warehousing with Snowflake & PostgreSQL
+- Workflow automation
+- Cloud-based data processing
+- Monitoring and optimization
+
+---
+
+# ⭐ Featured Projects
+
+## 🚀 CommerceFlow
+
+Production-inspired Data Engineering Platform
+
+> Python • Airflow • PostgreSQL • FastAPI • Docker
+
+---
+
+## 🤖 EVA 2.0
+
+Multimodal AI Assistant powered by
+
+- Gemini API
+- LangChain
+- YOLOv8
+- MediaPipe
+- FastAPI
+
+---
+
+## 📊 Data Engineering Infrastructure
+
+Production ETL platform featuring
+
+- Apache Airflow
+- Snowflake
+- PostgreSQL
+- Redis
+- Workflow Automation
+
+---
+
+## 📈 Trade Trigger Platform
+
+Real-time investment notification platform
+
+- Event Driven Architecture
+- Redis
+- Python
+- FastAPI
+- Notification Services
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
+
+### Data Engineering
+
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis)
+
+### AI & Machine Learning
+
+YOLOv8 • OpenCV • LangChain • Gemini API • TensorFlow • Scikit-Learn • NLP • LLMs
+
+### Cloud & DevOps
+
+Docker • Kubernetes • GCP • Git • GitHub • Linux
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhruvkajla0001&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dhruvkajla0001&show_icons=true&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=dhruvkajla0001&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkajla0001&layout=compact&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📌 Introduction:
+# 📚 Certifications
 
-- 🔭 I’m currently working on **AI-Powered Surveillance & PDF Extraction Pipelines**
-- 🌱 Exploring **LangChain, RAG, Gemini API, OpenCV, YOLO, FastAPI**
-- 💬 Ask me about **AI Integrations, Dashboards, ETL, NLP, or Automation Projects**
-- 🧠 Built intelligent systems for CCTV anomaly detection, document extraction, Streamlit dashboards
-- 📫 Email: dhruvkajla0001@gmail.com
-
+- AWS for Data Science
+- Generative AI with Large Language Models (LLMs)
 
 ---
 
-## 🧠 Technical Expertise:
+# 🌱 Currently Learning
 
-### 💻 Languages:
-- Python, JavaScript, C++, HTML5, CSS3
-
-### 🧰 Tools & Frameworks:
-- Flask, Streamlit, FastAPI, OpenCV, YOLOv5/v8, LangChain, Gemini API, MySQL, SQLite, Git, GitHub, VSCode
-
-### 🧠 AI/ML:
-- Scikit-learn, TensorFlow, NLP, Generative AI, RAG, Prompt Engineering, Deep Learning
-
-### 📊 Data & Analytics:
-- Pandas, NumPy, Matplotlib, PowerBI (basic), MySQL, ETL Pipelines
+- Apache Kafka
+- Kubernetes
+- System Design
+- Distributed Systems
+- Cloud Architecture
+- Event Driven Systems
 
 ---
 
-## 🛠️ My Notable Projects:
+# 🤝 Let's Connect
 
-### 🔐 **AI CCTV Anomaly Detection System**
-- YOLOv8 + Pose Estimation for real-time multi-person weapon detection
-- Flask web dashboard with toggles, alerting system, and logs
+<p>
 
-### 📄 **PDF Extractor & Dashboard**
-- Extracts structured data from scanned/CAD PDFs
-- Built ETL pipeline + WAMP-based MySQL storage
-- Visualized with Streamlit
+<a href="https://www.linkedin.com/in/dhruvkajla">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-### 🤖 **LangChain Q&A Chatbot + Gemini API Assistant**
-- RAG-based chatbot using advanced AI agents
-- File summarization, Q&A on PDFs and general topics
+<a href="mailto:dhruvkajla@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### 🧠 **Academic Projects**
-- NLP: Transformer vs LSTM comparison report
-- ML: Supervised & Unsupervised learning modules
-- Java DSA: Dynamic Programming & Array mastery course
+<a href="https://github.com/dhruvkajla0001">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+<div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=dhruvkajla0001&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com?user=dhruvkajla0001&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvkajla0001&theme=radical&hide_border=true&layout=compact)
-![](https://github-readme-activity-graph.vercel.app/graph?username=dhruvkajla0001&theme=react-dark)
+### 💡 "Building scalable systems that transform data into intelligent solutions."
 
----
+⭐ Thanks for visiting my profile!
 
-## 🏆 GitHub Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=dhruvkajla0001&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-## 🌐 Coding Profiles:
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/dhruvkajla0001/) 
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/dhruvkajla) 
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/dhruvkajla0001)
-
----
-
-## 🧑‍💼 Achievements:
-
-- 🥇 Completed 5+ end-to-end AI pipelines
-- 🏁 Cleared advanced coding contests on LeetCode & CN
-- 📈 Maintained consistency in GitHub for 12+ months
-- ✍️ Published documentation & guides for peers
-
----
-
-## 🤝 Connect With Me:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvkajla/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/dhruvkajla0001/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dhruvkajla)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvkajla0001@gmail.com)
-
----
-
-<p align="center">🚀 Built with passion by <a href="https://github.com/dhruvkajla0001">Dhruv Kajla</a></p>
+</div>
