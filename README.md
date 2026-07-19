@@ -201,7 +201,7 @@ Docker • Kubernetes • GCP • Git • GitHub • Linux
 
 <p>
 
-<a href="https://www.linkedin.com/in/dhruvkajla">
+<a href="https://www.linkedin.com/in/dhruvkajla001">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
